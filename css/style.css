@@ -1,0 +1,942 @@
+
+
+body{
+margin: 0 auto;
+	width:100%;
+        background-color: #a5f3a9;
+ 
+
+
+}
+table{
+border: 0px solid;
+border-spacing: 0px 11px;
+text-align: center;
+}
+td{
+border: 1px solid;
+height: 12px;
+
+}
+
+tr:hover{ background-color: #c8fdab; 
+}
+.button {
+	color: transparent;
+	border-color: transparent;
+}
+.border{
+	border: 1px solid transparent;
+}
+
+.none {
+	color: transparent;
+	border-color: transparent;
+}
+.edit {
+	margin-right: 3px;
+	margin-bottom: 3px;
+	margin-top: 3px;
+	display: block;
+	text-align: left;
+}
+.edittd {
+	width: 15px;
+	text-align:left;
+	padding-left: 1px;
+	padding-right: 1px;
+	
+}
+tr{
+border: 1px solid;
+height: 12px;
+}
+	
+.strcon_date {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 90px;
+	height: 100%;
+	margin-left: 1135px;
+	margin-top: -20px;
+	text-align: center;
+}
+
+.strcon_delete {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 25px;
+	height: 100%;
+	margin-left: 1225px;
+	margin-top: -20px;
+	text-align: center;
+}	
+.str {
+	width: 1250px;
+	height: 20px;
+	border: 1px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+	
+	
+
+}
+
+.str:hover {
+	width: 1250px;
+	height: 20px;
+	border: 1px solid #3cf20b;
+	text-align: left;
+	margin-top: 10px;
+        background-color: #3cf20b;
+
+	
+
+}
+
+
+
+
+.strcon_edit {
+	border-right: 1px solid #000000;
+	border-left: 0px ;
+	border-top: 0px ;
+	width: 25px;
+	height: 100%;
+	text-align: center;
+	
+}
+.strcon_n {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 35px;
+	height: 100%;
+	margin-left: 25px;
+	margin-top: -20px;
+	text-align: center;
+		
+}
+
+.strcon_name {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 305px;
+	height: 100%;
+	margin-left: 60px;
+	margin-top: -20px;
+	text-align: center;
+        
+	
+}
+
+.strcon_org {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 310px;
+	height: 100%;
+	margin-left: 365px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+
+.strcon_tel {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 710px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+.strcon_tel_search {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 675px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+.strcon_men {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 56px;
+	height: 100%;
+	margin-left: 822px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+
+.strcon_komm {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 200px;
+	height: 100%;
+	margin-left: 905px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+
+.strcon_cart {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 1px solid #000000;
+	width: 26px;
+	height: 20px;
+	margin-left: 1107px;
+	margin-top: -21px;
+	text-align: center;
+        background-color: #ffffff;
+	
+	
+	
+}
+
+
+.back_button {
+	border: 0px solid #000000;
+	width: 1250px;
+	height: 60px;
+	margin-right: 5px;
+	text-align: right;
+	margin-top: 15px;
+}
+
+.knopki_niz {
+	border: 0px solid #000000;
+	width: 1250px;
+	height: 60px;
+	margin-right: 5px;
+	
+	margin-top: 15px;
+}
+
+.knopki_niz_search {
+	border: 0px solid #000000;
+	width: 600px;
+	height: 40px;
+	margin-right: 5px;
+	text-align: right;
+	margin-top: 0px;
+	margin-left: 630px;
+}
+
+.knopki_niz_dobavit{
+	border: 0px solid #000000;
+	width: 600px;
+	height: 40px;
+	margin-right: 5px;
+	text-align: left;
+	margin-top: -41px;
+	margin-right: 600px;
+}
+
+.strcon_select {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 200px;
+	height: 100%;
+	margin-left: 260px;
+	margin-top: -20px;
+	text-align: center;
+}
+
+.strcon_name_select {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 200px;
+	height: 100%;
+	margin-left: 60px;
+	margin-top: 0px;
+	text-align: center;
+
+}
+
+
+.strcon_tel_sel {
+
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 200px;
+	margin-top: -23px;
+	text-align: center;
+	
+	}
+	.name_ed2 {
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 40px;
+ font-size:0;
+  line-height:0;
+
+	text-align: left;
+	margin-bottom: 0px
+	}
+	
+	.name_edit2 {
+   border: 0px solid transparent; 
+   
+   background: #ffffff !important;
+   outline: none; 
+   height: max; 
+   width: 570px; 
+   color: rgb(128,0,0); 
+   font-size: 25px; 
+   font-family: Tahoma;
+   font-style: italic; 
+   vertical-align:top;
+   line-height:normal;
+   
+}
+.org_name_edit
+	
+	{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 25px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:0;
+line-height:0;
+	text-align: left;
+	 vertical-align:top;
+	 line-height:normal;
+	}
+	
+.org_edit2 {
+	border: 0px solid transparent; 
+ 
+  
+   background: #ffffff !important;
+   outline: none; 
+   height: max; 
+   width: 570px; 
+   color: #797c78; 
+   font-size: 16px; 
+   font-family: Tahoma;
+   font-weight: 600;
+  vertical-align:top;
+   margin-top: -5px;
+}
+.tel_edit_bl 
+	{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 30px;
+ font-size:0;
+  line-height:0;
+
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: 20px
+	}
+	.tel_edit_bl2
+	{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: 50%;
+	height: 30px;
+ font-size:0;
+  line-height:0;
+padding:0px;
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: -50px;
+	margin-left: 50%;
+	}
+.tel_edit_2 {
+	border: 0px solid transparent; 
+ 
+  
+   background: #ffffff !important;
+   outline: none; 
+   height: max; 
+   width: 270px; 
+   color: #797c78; 
+   font-size: 22px; 
+   font-family: Verdana;
+   font-weight: 500;
+  vertical-align:top;
+    text-shadow: green 1px 0px;
+  
+}
+.tel_edit_3 {
+	border: 0px solid transparent; 
+ 
+  
+   background: #ffffff !important;
+   outline: none; 
+   height: max; 
+   width: 250px; 
+   color: #797c78; 
+   font-size: 22px; 
+   font-family: Verdana;
+   font-weight: 500;
+  vertical-align:top;
+  margin-top: -28px;
+   margin-left: 31px;
+   line-height:0;
+     text-shadow: green 1px 0px;
+}
+.phone_logo {
+	float: left;
+	margin-top: 20px;
+}
+
+.tel_edit_4{
+	border: 0px solid transparent; 
+ 
+  
+   background: #ffffff !important;
+   outline: none; 
+   height: max; 
+   width: 250px; 
+   color: #797c78; 
+   font-size: 22px; 
+   font-family: Verdana;
+   font-weight: 500;
+  vertical-align:top;
+  margin-top: -28px;
+   margin-left: 31px;
+   line-height:0;
+   text-shadow: green 1px 0px;
+}
+
+.email_edit
+
+{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 30px;
+ font-size:0;
+  line-height:0;
+
+	text-align: left;
+	margin-bottom: 0px;
+	margin-top: 20px
+	}
+.email_edit_inp {
+	border: 0px solid transparent; 
+ 
+  
+   background: #ffffff !important;
+   outline: none; 
+   height: 28px; 
+   width: 500px; 
+   color: #58D3F7; 
+   font-size: 22px; 
+   font-family: Verdana;
+   font-weight: 600;
+  vertical-align:top;
+  margin-top: 0px;
+   margin-left: 0px;
+   line-height:0;
+   text-shadow: green 1px 0px;
+}
+.update
+{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 30px;
+ font-size:0;
+  line-height:0;
+
+	text-align: right;
+	margin-bottom: 0px;
+	margin-top: 20px
+	}
+	
+	
+	.strcon_list {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 1px ;
+	width: 23px;
+	height: 100%;
+	margin-left: 880px;
+	margin-top: -20px;
+	text-align: center;
+	}
+	
+	.alicia {
+	width: 1250px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+	}
+	.setting {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 1200px;
+	}
+	.manager_name_setting {
+	width: 1250px;
+	height: 20px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+	}
+	.manager_name_setting_2 {
+	width: 1250px;
+	height: 70px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+	}
+	.group{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	width: auto;
+	height: 30px;
+ font-size:0;
+  line-height:0;
+
+	text-align: right;
+	margin-bottom: 0px;
+	margin-top: 20px
+	}
+        
+	.chenge_color {
+	width: 1250px;
+	height: 25px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+
+}
+.chenge_colorcon {
+	width: 230px;
+	height: 25px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -25px;
+	margin-left: 200px;
+
+}
+.chenge_colorcon_2 {
+	width: 230px;
+	height: 25px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -25px;
+	margin-left: 430px;
+
+}
+.chenge_colorcon_1 {
+	width: 230px;
+	height: 25px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -25px;
+	margin-left: 660px;
+
+}	
+.chenge_color_text {
+	width: 230px;
+	height: 25px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -25px;
+	margin-left: 900px;
+
+}	
+.strcon_search_2 {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 200px;
+	height: 100%;
+	margin-left: 572px;
+	margin-top: -20px;
+	text-align: center;
+}
+.strcon_search_3 {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 200px;
+	height: 100%;
+	margin-left: 772px;
+	margin-top: -21px;
+	text-align: center;
+}
+.strcon_button_search {
+
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 200px;
+	margin-top: -24px;
+	text-align: center;
+}
+	
+	.strcon_button_reset{
+
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 400px;
+	margin-top: -22px;
+	text-align: center;
+	}
+	
+	.strcon_men_search {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 81px;
+	height: 100%;
+	margin-left: 787px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+
+.strcon_adress {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 35px;
+	height: 100%;
+	margin-left: 675px;
+	margin-top: -20px;
+	text-align: center; 
+}
+.adress_edit2 {
+	border: 0px solid transparent; 
+}
+
+.strcon_button_reset_niz{
+
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 750px;
+	margin-top: -22px;
+	text-align: center;
+	}
+ 
+  
+
+
+.adress_edit{
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px solid #000000;
+	border-bottom: 1px solid #000000;
+	width: auto;
+	height: 25px;
+	font-family: Verdana, Arial, Helvetica, sans-serif; 
+font-size:0;
+line-height:0;
+	text-align: left;
+	 vertical-align:top;
+	 line-height:normal;
+	 padding-left: 0px;
+         margin-top: 10px;
+	}
+	
+	.strcon_status {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 90px;
+	height: 100%;
+	margin-left: 800px;
+	margin-top: -20px;
+	text-align: center;
+	}
+	.strcon_adress_inp {
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px ;
+	width: 310px;
+	height: 100%;
+	margin-left: 535px;
+	margin-top: -20px;
+	text-align: center;
+	
+	
+	
+}
+.str2 {
+	width: 1250px;
+	height: 20px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: 0px;
+	border-top: 10px solid #fbfcd4;
+
+}
+
+.str2:hover {
+	width: 1250px;
+	height: 20px;
+	border: 0px solid #3cf20b;
+	text-align: left;
+	border-top: 10px solid #fbfcd4;
+
+	
+
+}
+.strcon_edit_2 {
+	border-right: 0px solid #000000;
+	border-left: 0px ;
+	border-top: 0px ;
+	width: 25px;
+	height: 100%;
+	text-align: center;
+	
+}
+.strcon_email {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 56px;
+	height: 100%;
+	margin-left: 322px;
+	margin-top: -20px;
+	text-align: center;
+}
+.adress_edit2{
+background: #ffffff none repeat scroll 0 0 !important;
+    border: 0 solid transparent;
+    color: #000000;
+    font-family: Tahoma;
+    font-size: 14px;
+    font-weight: 600;
+    outline: medium none;
+    vertical-align: top;
+    width: 100%;
+
+	}
+.mail_empty {
+background-color: #D3D3D3;
+height: 100%;
+width: 100%;
+color: #ffffff;
+text-shadow: 0 1px 3px rgba(0,0,0,.3);
+}	
+
+.adres_empty {
+background-color: #D3D3D3;
+height: 100%;
+width: 100%;
+color: #ffffff;
+text-shadow: 0 1px 3px rgba(0,0,0,.3);
+}
+
+
+.button_sort {
+
+	border-right: 0px solid #000000;
+	border-left: 0px solid #000000;
+	border-top: 0px ;
+	width: 110px;
+	height: 100%;
+	margin-left: 200px;
+	margin-top: -21px;
+	text-align: center;
+
+	}	
+
+	.sale {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 1000px;
+	}
+	
+	.tools {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 900px;
+	}
+	
+	.exitb {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 300px;
+	}
+	
+	.kassa {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 800px;
+	}
+	
+	.user {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 400px;
+	}
+	.shoper {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 700px;
+	}
+	.pokupatel {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 600px;
+	}
+	.price {
+	width: 50px;
+	height: 50px;
+	border: 0px solid #000000;
+	text-align: left;
+	margin-top: -50px;
+	margin-left: 1100px;
+	}
+        #next {
+            
+            
+            width: 45px;
+            height: 45px;
+            padding: 10px;
+            margin-left: 250px;
+            margin-top: -40px;
+            display: block;
+            position: static;
+            
+            
+            
+            
+            
+        }
+        
+        #prew {
+            
+           
+            width: 45px;
+            height: 45px;
+            margin-right: 250px;
+            margin-bottom: -53px;
+            padding: 10px;
+            display: block;
+            position: static;
+            
+            
+            
+            
+            
+        }
+        .card_line {
+            width: 544px;
+            height: 25px;
+            background-color: #3cf20b;
+            
+            
+            
+            
+        }
+        
+        .cardblock1{
+            margin-top: 4px;
+           width: 272px; 
+           height: 25px;
+           margin-right: 271px;
+           background-color: #fbfcd4; 
+            
+            
+        }
+        .cardblock2{
+           width: 272px; 
+           height: 25px;
+           margin-top: -25px;
+           margin-left: 270px;
+           background-color: #c8fdab; 
+            
+            
+        }
+        .cardnumber{
+            position: fixed;
+           margin-left: -100px;
+           border-color:  #21f5f8;
+           size: 12px;
+           font-weight: 800;
+           color:  #797c78;
+           background-color:  #fbfcd4;
+           height: 21px;
+            
+            
+        }

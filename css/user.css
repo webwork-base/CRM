@@ -1,0 +1,354 @@
+.userform {
+	width: 1250px;
+	height: 150px;
+	border: 1px solid #000000;
+	text-align: left;
+	margin-top: 10px;
+	line-height: 20px;
+	margin-bottom: 0px;
+	padding-bottom: 0px;
+
+}
+.textrot{
+	transform: rotate(270deg);
+	margin-top: 125px;
+   
+	
+}
+
+.userwriteall {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1190px;
+	background-color: #b1fa69;
+	
+	
+}
+.redprice {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1168px;
+	background-color: #fb8b31;
+	margin-top: -152px;
+	
+	
+}
+
+.redsale {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1146px;
+	background-color: #b1fa69;
+	
+	margin-top: -152px;
+}
+
+
+
+.prihod {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1124px;
+	background-color: #fb8b31;
+	
+	margin-top: -152px;
+}
+
+.report {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1102px;
+	background-color: #b1fa69;
+	margin-top: -152px;
+	
+	
+}
+
+.reportall {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 1080px;
+	background-color: #fb8b31;
+	margin-top: -152px;
+	
+	
+}
+.menred {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 800px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	color: #ffffff;
+	
+}
+.allshoper {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 778px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	
+	
+	
+}
+.loocallsale {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 756px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	color: #ffffff;
+	
+}
+.redallsale {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 734px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	
+	
+}
+.redkassa {
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 712px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	color: #ffffff;
+	
+}
+.menname {
+	width: 400px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 0px;
+	background-color: #f6eea9;
+	margin-top: -152px;
+	
+	
+}
+
+.mennamech {
+	width: 400px;
+	border: 1px solid #000000;
+	border-top: 0px;
+	height: 22px;
+	position: relative;
+	margin-left: 0px;
+	background-color: #f6eea9;
+	margin-top: -22px;
+	
+	
+}
+
+.buttonplus {
+	width: 28px;
+	border-left: 0px solid #000000;
+	border: 0px;
+	height: 20px;
+	position: relative;
+	margin-left: 1214px;
+	
+	margin-top: -2px;
+	
+	
+	
+}
+.checkredshopmain {
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1190px;
+	
+	margin-top: -18px;
+}
+
+.checkredprice {
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1168px;
+	
+	margin-top: -22px;
+}
+.checkredsale {
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1146px;
+	
+	margin-top: -22px;
+}
+.checkenterprih {
+	
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1124px;
+	
+	margin-top: -22px;
+	
+	
+	
+}
+.checkmainreports {
+	
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1102px;
+	
+	margin-top: -22px;
+	
+	
+	
+}
+
+.checkallreports {
+	
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 1080px;
+	
+	margin-top: -22px;
+	
+	
+	
+}
+
+.checkallusers {
+	
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 800px;
+	
+	margin-top: -22px;
+	
+	
+	
+}
+
+.checkloockallshopes {
+	
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 778px;
+	
+	margin-top: -22px;
+	
+	
+	
+}
+
+.checkloockallsales {
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 756px;
+	
+	margin-top: -22px;
+}
+
+.checkediteallsales {
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 734px;
+	
+	margin-top: -22px;
+}
+
+.checkeditkassanal {
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 712px;
+	
+	margin-top: -22px;
+	
+	
+}
+
+.deleteuser {
+	
+	width: 20px;
+	border: 1px solid #000000;
+	height: 100%;
+	position: relative;
+	margin-left: 402px;
+	background-color: #fa6973;
+	margin-top: -152px;
+	
+	
+}
+.buttondeleteuser {
+	
+	width: 21px;
+	border: 1px solid #000000;
+
+	height: 20px;
+	position: relative;
+	margin-left: 402px;
+	
+	margin-top: -22px;
+	
+	
+}

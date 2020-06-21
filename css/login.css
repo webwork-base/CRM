@@ -1,0 +1,54 @@
+.logcont{
+	
+	width: 350px;
+	height: 200px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+	background-color: red;
+	
+	margin-top: 100px;
+	
+	
+	
+}
+.logintxt {
+	
+	width: 348px;
+	height: 20px;
+	
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	color: #ffffff;
+	
+	margin-top: 25px;
+	
+}
+
+.passtxt {
+	
+	width: 348px;
+	height: 20px;
+	
+	border-top: 0px solid #000000;
+	border-bottom: 0px solid #000000;
+	color: #ffffff;
+	
+	margin-top: 20px;
+	
+}
+
+.butlog {
+	
+	margin-top: 20px;
+	
+}
+
+.reg {
+	text-align: left;
+	margin-right: 69%;
+	
+	
+}

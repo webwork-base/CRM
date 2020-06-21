@@ -1,0 +1,288 @@
+.author {
+    margin-left: 137px;
+    height: 20px;
+    width: 120px;
+    margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    
+    
+    
+    
+}
+.contragent {
+    width: 290px; 
+    margin-left: 259px;
+    margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    height: 20px;
+    
+}
+.manager {
+   margin-left: 551px;
+    height: 20px;
+    width: 120px;
+    margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;    
+}
+.oplata {
+ margin-left: 673px;  
+ width: 120px;   
+ margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;    
+}
+.otgruzka {
+ margin-left: 795px;  
+ width: 120px;   
+ margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;    
+}
+.registr {
+ margin-left: 917px;  
+ width: 120px;   
+ margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;    
+}
+.sale_date {
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	border-top: 0px ;
+	width: 90px;
+	height: 20px;
+	margin-left: 45px;
+	margin-top: 0px;
+	text-align: center;
+        position: absolute;
+}
+
+.totalsum {
+ margin-left: 1100px;  
+ width: 120px;   
+ margin-top: 0px;
+    border-left: #000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;    
+}
+.print{
+ margin-left: 1229px;  
+ width: 20px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left: 0px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;  
+}
+
+.edite{
+ margin-left: 1230px;  
+ width: 20px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left: 0px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;  
+}
+.provodka{
+   margin-left: 5px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left: 0px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: azure;
+    
+}
+
+.otgruz{
+   margin-left: 206px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left: 0px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: #eee;
+    
+}
+
+.opl{
+   margin-left: 408px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left: 0px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: azure;
+    
+}
+
+.soh{
+   margin-left: 640px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left:#000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+.print{
+   margin-left: 1048px;  
+ width: 50px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left:#000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+
+.excel{
+   margin-left: 1042px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left:#000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: antiquewhite;
+    
+}
+.borg {
+    
+  margin-left: 1042px;  
+ width: 200px; 
+ height: 20px;
+ margin-top: 0px;
+    border-left:#000 solid 1px;
+    border-right:#000 solid 1px;
+    position: absolute;
+    text-align: center;
+    background-color: antiquewhite;  
+    
+}
+.otgruzka_ch_line{
+    width: 650px;
+    background-color: #fffa90;
+    color: #2b2b2b;
+    border: 1px #000000 solid;
+    margin-right: 890px;
+    margin-left: 4px;
+    font-weight: 600;
+    height: 16px;
+    
+    
+}
+.otgruzka_ch_number {
+    width: 25px;
+    border-right: #000 solid 1px;
+    height: 16px;
+    margin-right: 650px;
+    
+    
+}
+
+.otgruzka_ch_data {
+    width: 90px;
+    border-right: #000 solid 1px;
+    height: 16px;
+    margin-right: 500px;
+    margin-top: -16px;
+    
+}
+.otgruzka_ch_count {
+    width: 100px;
+    border-right: #000 solid 1px;
+    border-left: #000 solid 1px;
+    height: 16px;
+    margin-right: 309px;
+    margin-top: -16px;
+    
+    
+}
+
+.otgruzka_ch_price {
+    width: 100px;
+    border-right: #000 solid 1px;
+    border-left: #000 solid 1px;
+    height: 16px;
+    margin-right: 107px;
+    margin-top: -16px;
+    
+    
+}
+.otgruzka_ch_price_sum {
+    width: 100px;
+    border-right: #000 solid 1px;
+    border-left: #000 solid 1px;
+    height: 16px;
+    margin-right: 0px;
+    margin-left: 96px;
+    margin-top: -16px;
+    
+    
+}
+
+.otgruzka_ch_ost {
+    width: 100px;
+    border-right: #000 solid 1px;
+    border-left: #000 solid 1px;
+    height: 16px;
+    margin-right: 0px;
+    margin-left: 298px;
+    margin-top: -16px;
+    
+    
+}
+
+.otgruzka_ch_na_sum {
+    width: 100px;
+    border-right: #000 solid 1px;
+    border-left: #000 solid 1px;
+    height: 16px;
+    margin-right: 0px;
+    margin-left: 499px;
+    margin-top: -16px;
+    
+    
+}
+
+.otgruzka_del {
+    width: 25px;
+    border-right: #000 solid 1px;
+    height: 16px;
+    margin-left: 625px;
+    
+    
+}

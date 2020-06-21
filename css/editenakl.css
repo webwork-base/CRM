@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 13.04.2018, 14:54:56
+    Author     : maste
+*/
+
+
+.tovar_name-1 {
+	
+        display: inline;
+
+	margin-left: 27px;
+	width: 858px;
+	
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+        position: absolute;
+
+	}
+.cena_roznica-1
+	{
+
+	margin-left: 952px;
+	width: 97px;
+	
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	background-color: #ffffff;
+        position: absolute;
+	}
+.kol_tovara-1 {
+
+
+height: 20px;
+	margin-left: 1052px;
+width: 98px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	background-color: #f6f6f6;
+	color: #000000;
+        position: absolute;
+	}
+        
+.ed_izmer-1{
+
+	margin-left: 886px;
+	width: 63px;
+	
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+        position: absolute;
+	}
+        .cena_k_opt-1{
+            margin-left: 1153px;
+	width: 95px;
+	
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	background-color: #FFFF00;
+        position: absolute;
+	}

@@ -1,0 +1,199 @@
+.numkas{ 
+	
+	margin-left: -1px;
+	min-width: 45px;
+	max-width: 45px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	text-align: center;
+	
+	}
+	.data_op{ 
+	
+	margin-left: 46px;
+	margin-top: -20px;
+	min-width: 77px;
+	max-width: 77px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+		text-align: center;
+
+	
+	}
+	
+	.type_op{ 
+	
+	margin-left: 125px;
+	margin-top: -20px;
+	min-width: 150px;
+	max-width: 150px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+	
+
+	
+	}
+	.osnovanie{ 
+	
+	margin-left: 277px;
+	margin-top: -20px;
+	min-width: 250px;
+	max-width: 250px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+	
+
+	
+	}
+	
+	.summa_op{ 
+	
+	margin-left: 529px;
+	margin-top: -20px;
+	min-width: 75px;
+	max-width: 75px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	.teksum_op{ 
+	
+	margin-left: 606px;
+	margin-top: -20px;
+	min-width: 100px;
+	max-width: 100px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	.komment_op{ 
+	
+	margin-left: 708px;
+	margin-top: -20px;
+	min-width: 520px;
+	max-width: 520px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	
+	.dellbut{ 
+	
+	margin-left: 1229px;
+	margin-top: -20px;
+	min-width: 20px;
+	max-width: 20px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	
+	.totalsum{ 
+	
+	margin-left: 1147px;
+	
+	min-width: 100px;
+	max-width: 100px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+	background-color: #FF6347;
+
+	}
+	
+	.type_oper{ 
+	
+	margin-left: 0px;
+	
+	min-width: 190px;
+	max-width: 190px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+	
+
+	
+	}
+	.osnovanie_oper{ 
+	
+	margin-left: 277px;
+	
+	min-width: 250px;
+	max-width: 250px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+	
+
+	
+	}
+	
+	.teksum_oper{ 
+	
+	margin-left: 529px;
+	
+	min-width: 150px;
+	max-width: 150px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	
+	.komment_oper{ 
+	
+	margin-left: 708px;
+
+	min-width: 350px;
+	max-width: 350px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
+	
+	
+	.button_kassa{ 
+	
+	margin-left: 1068px;
+
+	min-width: 150px;
+	max-width: 150px;
+	border-right: 1px solid #000000;
+	border-left: 1px solid #000000;
+	padding-left: 1px;
+	position: absolute;
+	text-align: center;
+
+	}
